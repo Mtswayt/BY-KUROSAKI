@@ -1,4 +1,4 @@
-import { createHash } from 'crypto'
+هimport { createHash } from 'crypto'
 import { canLevelUp, xpRange } from '../lib/levelling.js'
 import fetch from 'node-fetch'
 import fs from 'fs'
@@ -160,7 +160,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
 *│*
 *│⇆ رقـم الـمطـور : ↯* 
-*│ده :https://wa.me/+212669512443*
+*│ده :https://wa.me/+212712844143*
 *│*
 *│⇆ يوتيوب المطور : ↯* 
 *│ده :https://www.youtube.com/@Kurosaki67383*
