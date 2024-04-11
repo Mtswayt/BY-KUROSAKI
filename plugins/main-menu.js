@@ -163,7 +163,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
 *│ده :https://wa.me/+212712844143*
 *│*
 *│⇆ انستغرام المطور : ↯* 
-*│ده https://www.instagram.com/youssef.assebab2*
+*│ده https://www.instagram.com/bot__youssef*
 *│*
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
     `.trim();
