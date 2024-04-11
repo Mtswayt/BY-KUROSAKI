@@ -41,9 +41,9 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
 
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
 *│❑↫┋مرحبا بك يا :${taguser}*
-*│❑↫┋ اسـم الـبوت : (حط حقوقك)*
+*│❑↫┋ اسـم الـبوت :(web bot)*
 *│❑↫┋ حط قبل كل امر : .*
-*│❑↫┋ الـمطور :kurosaki*
+*│❑↫┋ الـمطور :youssef*
 *│❑↫┋ البوت شغـال مـنذ : ${uptime}*
 *│❑↫┋ الـمنـصه : heroku*
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
